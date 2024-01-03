@@ -12,7 +12,7 @@ export default function Herosection() {
               <span className='text-b-200'>Find</span> , <span className='text-b-200'>Book</span> Or <span className='text-b-200'>Rent</span> A Car Easyly Just Follow <span className='text-b-200'> - Some Steps </span>
             </h1>
             <p className='my-10 text-slate-500'>
-              Discover the ease of securing your perfect ride with 'Find, Book, or Rent A Car Easily: Just Follow Some Steps.' Effortlessly search, compare, and select from a diverse range of vehicles. Customize your experience, book with a few clicks, and enjoy the simplicity of hassle-free car rentals. Elevate your journey with us!
+              Discover the ease of securing your perfect ride with Find, Book, or Rent A Car Easily: Just Follow Some Steps. Effortlessly search, compare, and select from a diverse range of vehicles. Customize your experience, book with a few clicks, and enjoy the simplicity of hassle-free car rentals. Elevate your journey with us!
             </p>
             <div className='w-auto'>
               <button className='border border-b-200 bg-b-200 px-6 py-2 rounded-full text-white hover:bg-white duration-200 hover:text-b-200 cursor-pointer' onClick={()=>{alert("hei man")}}>
